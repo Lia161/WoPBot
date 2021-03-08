@@ -10,7 +10,7 @@ from random import *
 
 zzahl = randint(1, 300)
 
-bot_token = '1649275793:AAEyRgLK_GNFHoSO9ww82yuFAXc1OcQMXgk'
+bot_token = '<TOKEN>'
 
 bot = telebot.TeleBot(bot_token)
 
